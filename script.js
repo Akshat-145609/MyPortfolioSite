@@ -165,3 +165,7 @@ function openGPT() {
 function openPNG() {
     window.location.href = "https://akshat-881236.github.io/Quizzone/pngGenerator.htm";
 }
+
+function openDPGNotes() {
+    window.location.href = "https://dpgnotes.web.app/";
+}
